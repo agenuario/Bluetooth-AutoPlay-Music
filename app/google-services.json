@@ -1,52 +1,65 @@
 {
   "project_info": {
-    "project_number": "333720191050",
-    "firebase_url": "https://bluetoothautoplaymusic.firebaseio.com",
-    "project_id": "bluetoothautoplaymusic",
-    "storage_bucket": "bluetoothautoplaymusic.appspot.com"
+    "project_number": "849039784957",
+    "project_id": "bluetoothautoplaymusic-8a1a3",
+    "storage_bucket": "bluetoothautoplaymusic-8a1a3.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:333720191050:android:a510675d233a58a4",
+        "mobilesdk_app_id": "1:849039784957:android:8b03823d0e6d64d7bdf794",
         "android_client_info": {
           "package_name": "maderski.bluetoothautoplaymusic"
         }
       },
       "oauth_client": [
         {
-          "client_id": "333720191050-2unkuh8q7pck1q12vd9thhrilcu7fees.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "maderski.bluetoothautoplaymusic",
-            "certificate_hash": "E8E06A6897009527909C51BE52A1A52357E3AAF4"
-          }
-        },
-        {
-          "client_id": "333720191050-t7853nljcgth6qd6i8kbepfroq1o9i5t.apps.googleusercontent.com",
+          "client_id": "849039784957-jbbt1uc36ddhdqu0k88gdc7sbnmfdie5.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA6Ipgb3eO83hf55e6pcbEXNyYw-QyY6KA"
+          "current_key": "AIzaSyCjRkicakml5m8iY39rB_zdw5aVjTBZGPM"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "333720191050-t7853nljcgth6qd6i8kbepfroq1o9i5t.apps.googleusercontent.com",
+              "client_id": "849039784957-jbbt1uc36ddhdqu0k88gdc7sbnmfdie5.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
-        },
-        "ads_service": {
-          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849039784957:android:08ff7c1f70a04760bdf794",
+        "android_client_info": {
+          "package_name": "microcod.bluetoothautoplaymusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849039784957-jbbt1uc36ddhdqu0k88gdc7sbnmfdie5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjRkicakml5m8iY39rB_zdw5aVjTBZGPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849039784957-jbbt1uc36ddhdqu0k88gdc7sbnmfdie5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
